@@ -13,4 +13,6 @@ A simple Analytics Script in php
 2. use: include analytics.php; to start tracing
 3. Done
 
+4. Visit analytics.php?stats=1 to view your analytics
+
 The Script creates for every visit a seperate file containing all Data. this ensures concurency and keeps it simple.
